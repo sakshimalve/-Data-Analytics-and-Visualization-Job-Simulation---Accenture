@@ -1,6 +1,5 @@
 # 📊 Data Analytics and Visualization Job Simulation - Accenture
 
-
 ## 📜 Overview
 I have successfully completed the **Data Analytics and Visualization Job Simulation** offered by **Accenture** on **Forage**.  
 This program provided me with hands-on experience in analyzing data, creating visualizations, and presenting actionable insights, simulating real-world tasks performed by data analysts.
